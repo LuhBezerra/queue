@@ -11,7 +11,8 @@ Utilização de threads e a estrutura de dados deque para simulação de uma fil
 
 	2.1 Cada novo cliente a ser atendido vai para o final da fila 
 
-	2.2 Se o cliente for VIP(escolha feita de forma randômica), ele vai para o início da fila, não importa quantos clientes já estão lá e se são VIPs ou não
+	2.2 Se o cliente for VIP(escolha feita de forma randômica), ele vai para o início da fila, 
+	não importa quantos clientes já estão lá e se são VIPs ou não
 
 3º Atendimento ao próximo cliente 
 
@@ -27,7 +28,6 @@ Utilização de threads e a estrutura de dados deque para simulação de uma fil
 5 Exibição de informações 
 	
 	5.1 A cada alteração na fila o programa mostra o estado da fila, com as seguintes informações: 
-	
     	* Cliente no Início da Fila
 	* Tamanho da Fila
 	* Cliente no Final da Fila
